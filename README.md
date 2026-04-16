@@ -7,6 +7,14 @@ Gets the mac of your own machine.
 > This is due to the original windows getmac. Because there is already one.
 > You may find it useful to rename it as you like to...!
 
+## How2Use it?
+
+type following cmd:
+getmac 
+
+or:
+getmac -a
+(note: in fact you can just writw anything and ir will be interpreted as -a !!!)
 ## Compile it yourself
 
 ### LINUX
